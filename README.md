@@ -3,7 +3,9 @@ Dump Protheus call stack to text file
 
 
 ### Sintaxe
-```u_StackDump(cPath,cFile)```
+```xBase
+u_StackDump(cPath,cFile)
+```
 
 
 ### Parameters
