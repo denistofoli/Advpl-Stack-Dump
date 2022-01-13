@@ -4,6 +4,7 @@ Gera aquivos texto com a pilha de chamadas
 
 @type function
 @version 1.0
+@license MIT License
 
 @author Denis Tofoli (denis.tofoli@gmail.com)
 @since 13/01/2022
